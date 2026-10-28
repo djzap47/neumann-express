@@ -1,4 +1,4 @@
-# neumann-express
+# Neumann Express
   A local, interactive von Neumann architecture simulator with an illustrated railway theme. No build tools, backend, API keys, or package installation required.
 ## Open locally
 
